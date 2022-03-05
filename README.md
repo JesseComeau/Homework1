@@ -2,7 +2,7 @@
 Bootcamp - Phase 1 - Week 1 Homework
 
 Refactored HTML elements:
-  Updated title to reflect company name
+  Updated title to reflect company name.
 	Removed IDs from multiple instances where individual IDs and class was listed with the same name. Better utilization of class functionality to reduce CSS styling required.
 	Changed multiple div tags to semantic HTML elements.
 	Fixed an broekn link to the "Search Engine Optimazation".
